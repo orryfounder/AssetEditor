@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\AssetEditor\bin\Debug\AssetEditor.exe.config
+C:\Users\Admin\source\repos\AssetEditor\bin\Debug\AssetEditor.exe
+C:\Users\Admin\source\repos\AssetEditor\bin\Debug\AssetEditor.pdb
+C:\Users\Admin\source\repos\AssetEditor\obj\Debug\AssetEditor.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AssetEditor\obj\Debug\AssetEditor.MainForm.resources
+C:\Users\Admin\source\repos\AssetEditor\obj\Debug\AssetEditor.Properties.Resources.resources
+C:\Users\Admin\source\repos\AssetEditor\obj\Debug\AssetEditor.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\AssetEditor\obj\Debug\AssetEditor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AssetEditor\obj\Debug\AssetEditor.exe
+C:\Users\Admin\source\repos\AssetEditor\obj\Debug\AssetEditor.pdb
